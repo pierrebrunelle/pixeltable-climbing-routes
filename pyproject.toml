@@ -1,0 +1,18 @@
+[project]
+name = "pixeltable-climbing-routes"
+version = "0.1.0"
+description = "Climbing-route topo registry API: photo uploads with thumbnails, grayscale copies, grade bands and index-backed crag lookups - built with Pixeltable"
+readme = "README.md"
+requires-python = ">=3.11"
+license = "Apache-2.0"
+authors = [{ name = "Pierre Brunelle" }]
+keywords = ["pixeltable", "multimodal", "ai", "fastapi", "computed-columns", "data-infrastructure", "climbing-routes"]
+dependencies = [
+    "pixeltable[serve]>=0.7.16",
+    "pillow",
+]
+
+[project.urls]
+Homepage = "https://pixeltable.com"
+Documentation = "https://docs.pixeltable.com"
+Pixeltable = "https://github.com/pixeltable/pixeltable"

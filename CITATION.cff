@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use or adapt this example app, please cite it using these metadata."
+type: software
+title: "Climbing Route Topos API built with Pixeltable"
+abstract: "Climbing-route topo registry API: photo uploads with thumbnails, grayscale copies, grade bands and index-backed crag lookups."
+authors:
+  - given-names: "Pierre"
+    family-names: "Brunelle"
+repository-code: "https://github.com/pierrebrunelle/pixeltable-climbing-routes"
+url: "https://pierrebrunelle.github.io/awesome-pixeltable-apps/"
+license: Apache-2.0
+version: "0.1.0"
+date-released: 2026-10-09
+keywords:
+  - "pixeltable"
+  - "pixeltable-example"
+  - "python"
+  - "computer-vision"
+  - "climbing"
+  - "image-processing"
+  - "outdoor"
+  - "database-indexing"
+  - "cli"
+  - "fastapi"
